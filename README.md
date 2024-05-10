@@ -69,3 +69,7 @@ For inquiries or collaboration opportunities, please feel free to reach out to *
 
 - **Email:** [sjetnik@gmail.com](mailto:sjetnik@gmail.com)
 - **GitHub Profile:** [Jetnik Syla](https://github.com/JetnikSyla)
+
+## Project Screenshot
+
+![3d_World](src/assets/3D_World.png)
