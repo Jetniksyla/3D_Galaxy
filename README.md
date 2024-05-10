@@ -72,5 +72,6 @@ For inquiries or collaboration opportunities, please feel free to reach out to *
 
 ## Project Screenshot
 
+![Galaxy](src/assets/Galaxy.png)
 ![3d_World](src/assets/3D_World2.png)
 ![3d_World1](src/assets/3D_World3.png)
