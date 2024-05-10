@@ -24,6 +24,8 @@ function App() {
           color: "#fff",
           padding: "20px",
           textAlign: "center",
+          fontFamily: "sans-serif",
+          fontSize: "20px",
         }}
       >
         &copy; 2024 Jetnik Syla. All rights reserved.
